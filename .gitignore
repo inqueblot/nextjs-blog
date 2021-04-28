@@ -17,6 +17,7 @@
 
 # misc
 .DS_Store
+/public/images/profile.js
 
 # debug
 npm-debug.log*
